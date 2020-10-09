@@ -1,2 +1,3 @@
 # hello-world
-this is to learn how to use repository's
+
+don't mind this, this is just me trying to figuere out how to use github
